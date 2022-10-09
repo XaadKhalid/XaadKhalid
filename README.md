@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XaadKhalid
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MEAN stack
+- 👀 I love Web Development
+- 🌱 Currently we are working on image processing for our FYP.
 
 <!---
 XaadKhalid/XaadKhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
