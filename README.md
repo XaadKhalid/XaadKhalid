@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XaadKhalid
 - 👀 I love Web Development
-- 🌱 Currently we are working on image processing for our FYP.
+- 🌱 Currently I am working on React Native for my FYP.
 
 <!---
 XaadKhalid/XaadKhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
